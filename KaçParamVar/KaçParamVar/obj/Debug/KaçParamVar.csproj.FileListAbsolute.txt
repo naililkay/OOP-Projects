@@ -1,0 +1,8 @@
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\Methodlar\Return methodlar\KaçParamVar\KaçParamVar\bin\Debug\KaçParamVar.exe.config
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\Methodlar\Return methodlar\KaçParamVar\KaçParamVar\bin\Debug\KaçParamVar.exe
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\Methodlar\Return methodlar\KaçParamVar\KaçParamVar\bin\Debug\KaçParamVar.pdb
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\Methodlar\Return methodlar\KaçParamVar\KaçParamVar\obj\Debug\KaçParamVar.csproj.AssemblyReference.cache
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\Methodlar\Return methodlar\KaçParamVar\KaçParamVar\obj\Debug\KaçParamVar.csproj.SuggestedBindingRedirects.cache
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\Methodlar\Return methodlar\KaçParamVar\KaçParamVar\obj\Debug\KaçParamVar.csproj.CoreCompileInputs.cache
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\Methodlar\Return methodlar\KaçParamVar\KaçParamVar\obj\Debug\KaçParamVar.exe
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\Methodlar\Return methodlar\KaçParamVar\KaçParamVar\obj\Debug\KaçParamVar.pdb

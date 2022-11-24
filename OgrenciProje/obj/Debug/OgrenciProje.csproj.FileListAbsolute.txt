@@ -1,0 +1,33 @@
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe.config
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.pdb
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\bin\Debug\FakeData.dll
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\bin\Debug\FakeData.pdb
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.AssemblyReference.cache
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.CoreCompileInputs.cache
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.CopyComplete
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.exe
+C:\Users\naili\Desktop\Yazılım Kursu\OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.pdb
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe.config
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.pdb
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\bin\Debug\FakeData.dll
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\bin\Debug\FakeData.pdb
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.AssemblyReference.cache
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.CoreCompileInputs.cache
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.CopyComplete
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.exe
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\ClassYapılar\modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.pdb
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\2 ClassYapılar\4 modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.AssemblyReference.cache
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\2 ClassYapılar\4 modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\2 ClassYapılar\4 modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.CoreCompileInputs.cache
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\2 ClassYapılar\4 modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.exe
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\2 ClassYapılar\4 modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.pdb
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\2 ClassYapılar\4 modernoop\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe.config
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\2 ClassYapılar\4 modernoop\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.exe
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\2 ClassYapılar\4 modernoop\OgrenciProje\OgrenciProje\bin\Debug\OgrenciProje.pdb
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\2 ClassYapılar\4 modernoop\OgrenciProje\OgrenciProje\bin\Debug\FakeData.dll
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\2 ClassYapılar\4 modernoop\OgrenciProje\OgrenciProje\bin\Debug\FakeData.pdb
+C:\Users\naili\Desktop\Yazılım Kursu\9.OOP\2 ClassYapılar\4 modernoop\OgrenciProje\OgrenciProje\obj\Debug\OgrenciProje.csproj.CopyComplete
